@@ -1,0 +1,13 @@
+﻿{
+  "specFlow": {
+    "bindingCulture": {
+      "language": "en-US"
+    },
+    "unitTestProvider": {
+      "name": "nunit"
+    },
+    "trace": {
+      "traceSuccessfulSteps": true
+    }
+  }
+}
